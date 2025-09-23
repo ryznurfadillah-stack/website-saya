@@ -1,1 +1,22 @@
+h1 {
+    color:deeppink;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.div {
+    color: rgb(54, 105, 207);
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    border: 2px solid rgb(24, 60, 133);
+    border-radius: 30px;
+    padding: 1px;
+    margin: 45px;
+}
 
+p {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
